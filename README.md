@@ -39,7 +39,7 @@ Before you begin, ensure you have met the following requirements:
 
 - Clone the repository:
 ```
-git clone https://github.com/yourusername/restaurant-review-app.git
+git clone git@github.com:Mwasigwa2/SQLAlchemy-Restaurants.git
 ```
 - Navigate to the project directory:
 ```
