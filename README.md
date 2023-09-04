@@ -39,7 +39,7 @@ Before you begin, ensure you have met the following requirements:
 
 1. Clone the repository:
 
-   ```bash
+   ```
    git clone https://github.com/yourusername/restaurant-review-app.git
    ```
    2. Navigate to the project directory:
@@ -49,8 +49,7 @@ Before you begin, ensure you have met the following requirements:
 3. Create and activate a virtual environment (optional but recommended):
    ```
    python -m venv venv
-source venv/bin/activate  # On Windows, use venv\Scripts\activate
-```
+   ```
 4. Install project dependencies:
 ```
 pip install -r requirements.txt
@@ -81,5 +80,6 @@ Create a new branch for your feature or bug fix: git checkout -b feature/your-fe
 Make your changes and commit them with clear and concise messages.
 Push your changes to your forked repository.
 Submit a pull request to the original repository.
-License
+
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
