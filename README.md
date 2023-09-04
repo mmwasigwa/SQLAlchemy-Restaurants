@@ -37,9 +37,10 @@ Before you begin, ensure you have met the following requirements:
 
 ### Installation
 
-Clone the repository:
-   ```
-   git clone https://github.com/yourusername/restaurant-review-app.git```
+- Clone the repository:
+```
+git clone https://github.com/yourusername/restaurant-review-app.git
+```
 3. Navigate to the project directory:
     ```cd restaurant-review-app```
 4. Create and activate a virtual environment (optional but recommended):
