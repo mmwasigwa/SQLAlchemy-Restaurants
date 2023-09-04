@@ -38,10 +38,11 @@ Before you begin, ensure you have met the following requirements:
 ### Installation
 
 1. Clone the repository:
-   ```git clone https://github.com/yourusername/restaurant-review-app.git```
-2. Navigate to the project directory:
+   ```
+   git clone https://github.com/yourusername/restaurant-review-app.git```
+3. Navigate to the project directory:
     ```cd restaurant-review-app```
-3. Create and activate a virtual environment (optional but recommended):
+4. Create and activate a virtual environment (optional but recommended):
 ```python -m venv venv```
 5. Install project dependencies:
 ```pip install -r requirements.txt```
