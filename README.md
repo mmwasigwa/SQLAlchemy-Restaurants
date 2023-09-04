@@ -41,3 +41,15 @@ Before you begin, ensure you have met the following requirements:
 
    ```bash
    git clone https://github.com/yourusername/restaurant-review-app.git
+   ```
+   2. Navigate to the project directory:
+    ```
+      cd restaurant-review-app
+    ```
+3. Create and activate a virtual environment (optional but recommended):
+   ```
+   python -m venv venv
+source venv/bin/activate  # On Windows, use venv\Scripts\activate
+```
+4
+   
