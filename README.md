@@ -61,7 +61,7 @@ python seeds.py
 ```
 ## Usage
 
-- Open a web browser and navigate to `http://localhost:5000' to interact with the application.
+- Open a web browser and navigate to ```http://localhost:5000``` to interact with the application.
 
 - Use the provided methods to manage restaurants, customers, reviews, and perform queries.
 
