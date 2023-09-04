@@ -37,7 +37,7 @@ Before you begin, ensure you have met the following requirements:
 
 ### Installation
 
-1. Clone the repository:
+Clone the repository:
    ```
    git clone https://github.com/yourusername/restaurant-review-app.git```
 3. Navigate to the project directory:
