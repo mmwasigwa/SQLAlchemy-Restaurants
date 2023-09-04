@@ -43,7 +43,7 @@ git clone git@github.com:Mwasigwa2/SQLAlchemy-Restaurants.git
 ```
 - Navigate to the project directory:
 ```
-cd restaurant-review-app
+cd SQLAlchemy-Restaurants
 ```
 -  Create and activate a virtual environment (optional but recommended):
 ```
