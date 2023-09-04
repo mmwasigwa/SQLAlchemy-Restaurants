@@ -67,21 +67,21 @@ Use the provided methods to manage restaurants, customers, reviews, and perform 
 ## Project Structure
 The project structure is organized as follows:
 
-- models.py: Defines SQLAlchemy models for restaurants, customers, and reviews.
-- seeds.py: Seeds the database with sample data.
-- app.py: Main application script for running the project.
-- README.md: This documentation file.
-- requirements.txt: Lists project dependencies.
+- **models.py** Defines SQLAlchemy models for restaurants, customers, and reviews.
+- **seeds.py** Seeds the database with sample data.
+- **app.py** Main application script for running the project.
+- **README.md** This documentation file.
+- **requirements.txt** Lists project dependencies.
 
 ## Contributing
 Contributions to this project are welcome. To contribute, please follow these steps:
 
 - Fork the repository.
-- Create a new branch for your feature or bug fix: git checkout -b feature/your-feature-name.
+- Create a new branch for your feature or bug fix: `git checkout -b feature/your-feature-name`
 - Make your changes and commit them with clear and concise messages.
 - Push your changes to your forked repository.
 - Submit a pull request to the original repository.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the **MIT License** - see the LICENSE file for details.
 
