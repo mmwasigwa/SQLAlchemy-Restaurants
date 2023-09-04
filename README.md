@@ -41,24 +41,17 @@ Before you begin, ensure you have met the following requirements:
    ```git clone https://github.com/yourusername/restaurant-review-app.git```
 
    2. Navigate to the project directory:
-    ```
-      cd restaurant-review-app
-    
-    ```
+    ```cd restaurant-review-app```
 3. Create and activate a virtual environment (optional but recommended):
-   ```
-   python -m venv venv
-   
-   ```
-4. Install project dependencies:
-```
-pip install -r requirements.txt
-```
-5. Seed the database with sample data:
-```
-python seeds.py
+```python -m venv venv```
 
-```
+5. Install project dependencies:
+
+```pip install -r requirements.txt```
+
+5. Seed the database with sample data:
+```python seeds.py```
+
 ## Usage
 
 Open a web browser and navigate to http://localhost:5000 to interact with the application.
